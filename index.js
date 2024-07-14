@@ -1,3 +1,3 @@
-const getwindow = require('./build/Release/getwindowsinfo')
+const getActiveWindow = require('./build/Release/getwindowsinfo')
 
-console.log(getwindow.getOpenWindowsInfo());
+export default  getActiveWindow.getOpenWindowsInfo()
