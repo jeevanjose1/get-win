@@ -1,5 +1,5 @@
 {
-  "name": "get-win-active",
+  "name": "window-active-v1",
   "version": "1.0.0",
   "description": "This is a package for accessing active windows in windows, mac and linux operating systems",
   "main": "index.js",
