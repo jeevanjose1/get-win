@@ -1,0 +1,25 @@
+{
+  "name": "get-win",
+  "version": "1.0.0",
+  "description": "This is a package for accessing active windows in windows, mac and linux operating systems",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-gyp configure build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanjose1/get-win.git"
+  },
+  "keywords": [
+    "windows"
+  ],
+  "author": "Jeevan Jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevanjose1/get-win/issues"
+  },
+  "homepage": "https://github.com/jeevanjose1/get-win#readme",
+  "dependencies": {
+    "node-gyp": "^10.2.0"
+  }
+}
